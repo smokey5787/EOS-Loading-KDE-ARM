@@ -39,8 +39,8 @@ Rectangle {
             asynchronous: true
             source: "images/eos-arm.svg"
 
-            sourceSize.width: 200
-            sourceSize.height: 174
+            sourceSize.width: 262
+            sourceSize.height: 184
         }
 
         // TODO: port to PlasmaComponents3.BusyIndicator
